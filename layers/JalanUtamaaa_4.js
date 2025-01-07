@@ -1,0 +1,1 @@
+var json_JalanUtamaaa_4 = {"type":"FeatureCollection","name":"JalanUtamaaa_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"MultiLineString","coordinates":[[[100.286077757018759,-0.666499205033585],[100.28645162527728,-0.667448190926014]]]}}]}
